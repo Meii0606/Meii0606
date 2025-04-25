@@ -1,6 +1,6 @@
 # Hi! I'm Yimei 👋
 
-My background bridges applied AI research and full-stack system development. I’ve worked on model fine-tuning, multimodal architectures, generative models, GPU-accelerated computation, and deploying scalable ML infrastructure on the cloud.
+I will graduate from Carnegie Mellon University on this May. My background bridges applied AI research and full-stack system development. I’ve worked on model fine-tuning, multimodal architectures, generative models, GPU-accelerated computation, and deploying scalable ML infrastructure on the cloud.
 
 ### 🔬 Recent Highlights
 
@@ -10,4 +10,8 @@ My background bridges applied AI research and full-stack system development. I�
 - ⚙️ Built the **Needle deep learning framework** from scratch, supporting automatic differentiation and CUDA-accelerated sparse-dense matrix multiplication to speed up **GNN** training.
 - 🛡️ Fine-tuned **YOLOv8** for image classification and implemented **FGSM-based adversarial attacks** to evaluate model robustness.
 
-Feel free to check out my repositories or connect with me!
+### Skill Sets
+[![My Skills](https://skillicons.dev/icons?i=python,SQL,C++,CUDA)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,terraform,git,gcp,aws,latex)](https://skillicons.dev)
+
